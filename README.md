@@ -16,5 +16,7 @@ Durante o período de crescimento exponencial, o gráfico aproxima-se bastante d
 2) O programa busca os dados **oficiais** mais recentes no site da Fundação SEADE (https://www.seade.gov.br/coronavirus/) para gerar o gráfico. É sabido que há uma grande quantidade de subnotificação de casos por falta de testes (https://drive.google.com/file/d/1_whlqZnGgvqHuWCG4-JyiL2X9WXpZAe3/view, https://covid19br.github.io/informacoes.html).
 
 Em suma, esse programa é apenas (mais) uma ferramenta para visualizar as tendências dos dados oficiais em SP. 
+
 Se você é pesquisador, sinta-se à vontade para se modificar ou se inspirar nesse código para fazer outras análises ou estudar outras regiões. 
+
 Se você **não** é pesquisador, evite tirar e espalhar as suas próprias conclusões e confie nos pesquisadores! :)
