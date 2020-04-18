@@ -7,9 +7,7 @@ O site não mostra os casos no Brasil por estado, e achei que seria interessante
 
 Durante o período de crescimento exponencial, o gráfico aproxima-se bastante de uma reta crescente. Conforme a doença desacelera, mesmo que seja uma tendência sutil de achatamento na curva exponencial original, este gráfico vai mostrar a reta curvando-se para a horizontal, e quando os casos começarem a cair, a reta tornará-se decrescente. Vale à pena ver os gráficos de alguns países diferentes no site original para entender melhor o gráfico. Também recomendo muito assistir o vídeo do canal minutephysics a respeito (https://www.youtube.com/watch?v=54XLXg4fYsc).
 
-<p align="center">
-  <img src="covidsp.png">
-</p>
+<p align="center"><img src="covidsp.png"></p>
 
 É importante notar que temos algumas limitações:
 
