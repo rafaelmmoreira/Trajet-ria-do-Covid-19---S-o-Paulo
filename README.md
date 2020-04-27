@@ -2,6 +2,7 @@
 Acompanhamento da trajetória dos casos do Covid-19 no estado de São Paulo usando a metodologia de Aatish Bhatia (https://aatishb.com/covidtrends/).
 
 O site não mostra os casos no Brasil por estado, e achei que seria interessante poder fazer esse acompanhamento para o meu estado.
+> *Edit:* desde o dia 25/04 disponibilizei um appzinho onde você pode selecionar qualquer cidade do Brasil, além da possibilidade de agrupar os casos por estado ou todos os casos do Brasil: https://github.com/rafaelmmoreira/Trajet-ria-Covid-19---cidades-do-Brasil
 
 É difícil visualizar tendências de desaceleração quando estamos no meio da curva exponencial. Portanto, o método proposto utiliza um gráfico relacionando o número total de casos x número de casos novos. Os casos novos são agrupados por semana para desprezar ruídos de variação diária e tornar o gráfico mais nítido, e os eixos são logarítmicos.
 
